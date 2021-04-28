@@ -1,0 +1,10 @@
+# Configuration/Services.yaml
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    bpn.expiring_fe_groups.domain.model.front_end_user_group_repository:
+        class: BPN\ExpiringFeGroups\Domain\Model\FrontEndUserGroupRepository
+        public: true

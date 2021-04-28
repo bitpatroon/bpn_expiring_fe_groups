@@ -1,0 +1,31 @@
+.module-tx_expiringfegroups_groups label.inline-label {
+    display: block;
+    float: left;
+    text-align: right;
+    clear: left;
+    width: 100px;
+    padding: 10px 10px 10px 0;
+}
+
+.module-tx_expiringfegroups_groups .inline-element {
+    display: table-cell;
+}
+
+.module-tx_expiringfegroups_groups .inline-label,
+.module-tx_expiringfegroups_groups .inline-element {
+    min-height: 30px;
+}
+
+.module-tx_expiringfegroups_groups .inline-label select,
+.module-tx_expiringfegroups_groups .inline-element select {
+    height: 30px;
+}
+
+.module-tx_expiringfegroups_groups .inline-label select option,
+.module-tx_expiringfegroups_groups .inline-element select option {
+    height: 100%;
+}
+
+.module-tx_expiringfegroups_groups .button-bar {
+    padding-left: 100px;
+}

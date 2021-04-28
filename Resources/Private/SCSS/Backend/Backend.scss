@@ -1,0 +1,33 @@
+.module-tx_expiringfegroups_groups {
+    label.inline-label {
+        display: block;
+        float: left;
+        text-align: right;
+        clear: left;
+        width: 100px;
+        padding: 10px 10px 10px 0;
+    }
+
+    .inline-element {
+        display: table-cell;
+    }
+
+    .inline-label,
+    .inline-element {
+        min-height: 30px;
+
+
+        select {
+            height: 30px;
+
+            option {
+                height: 100%;
+            }
+        }
+    }
+
+    .button-bar {
+        padding-left: 100px;
+    }
+
+}

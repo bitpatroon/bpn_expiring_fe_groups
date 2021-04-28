@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0" standalone="yes">
+  <file source-language="en" target-language="de" datatype="plaintext" original="messages" data="2019-01-07T14-34-56"
+        product-name="bpn_expiring_fe_groups">
+    <header/>
+    <body>
+      <trans-unit id="fe_users.tx_expiringfegroups_groups" xml:space="preserve">
+        <source>Expiring Groups:</source>
+        <target>Gruppen mit verfallsdatum:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.selected" xml:space="preserve">
+        <source>Selected Items:</source>
+        <target>Ausgewählte Objekte:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.available" xml:space="preserve">
+        <source>Available Items:</source>
+        <target>Verfügbare Objekte:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.groups" xml:space="preserve">
+        <source>Groups:</source>
+        <target>Gruppen:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.from" xml:space="preserve">
+        <source>From:</source>
+        <target>Von:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.until" xml:space="preserve">
+        <source>Until:</source>
+        <target>Auf:</target>
+      </trans-unit>
+      <trans-unit id="fe_users.add" xml:space="preserve">
+        <source>Add</source>
+        <target>Hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="fe_users.removegroup" xml:space="preserve">
+        <source>Remove selected</source>
+        <target>Ausgewählte löschen</target>
+      </trans-unit>
+      <trans-unit id="fe_users.to" xml:space="preserve">
+        <source>until</source>
+        <target>bis</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

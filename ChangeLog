@@ -1,0 +1,16 @@
+2021-04-28 Sjoerd Zonneveld | Bitpatroon <code@bitpatroon.nl>
+        * Converted for TYPO3 10.4
+
+2015-05-13 Sander Leeuwesteijn | iTypo <info@itypo.nl>
+	* This version is compatible with 6.2.x. No longer with 4.x series.
+
+2013-01-26 Sander Leeuwesteijn | iTypo <info@itypo.nl>
+	* Removed some minor bugs.
+	* Retested the extension with TYPO3 4.5.x and 4.7x
+	* Improved the position of the field in the fe_user TCA.
+	* Lots of code cleanup.
+	* Added a manual.
+	* Added German and Dutch translations.
+
+2005-11-10 Radu Cocieru <raducocieru@hotmail.com>
+	* Original extension submitted to TER.
